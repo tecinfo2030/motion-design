@@ -1,0 +1,8 @@
+  03/02/2020 12:32:55: Starting composition “Exercício-setmatte-smear”.
+
+  Output To: C:\Users\Dhyan Shanasa\Desktop\Renders-aula\Exercício-setmatte-smear\Exercício-setmatte-smear_[#####].png    03/02/2020 12:33:11: Finished composition “Exercício-setmatte-smear”.
+
+
+  Total Time Elapsed: 16 Seconds
+Log closed on 03/02/2020 at 12:33:11
+

@@ -1,0 +1,8 @@
+  03/02/2020 12:29:05: Starting composition “Exercício-setmatte-smear”.
+
+  Output To: C:\Users\Dhyan Shanasa\Desktop\Renders-aula\render-10-animation.mov    03/02/2020 12:29:09: Finished composition “Exercício-setmatte-smear”.
+
+
+  Total Time Elapsed: 4 Seconds
+Log closed on 03/02/2020 at 12:29:09
+
